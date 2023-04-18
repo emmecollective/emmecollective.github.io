@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;400;500;700&display=swap');
+
+@font-face {
+  font-family: 'Apple SD Gothic Neo';
+  src: url('/fonts/AppleSDGothicNeoR.ttf');
+}
+
+:root {
+    scroll-behavior: smooth;
+    --font-family: 'Apple SD Gothic Neo';
+  }
+
+/*
+a.primary {
+  --font-family: 'Noto Sans KR', sans-serif;
+}
+
+.feature h2 {
+  --font-family: 'Noto Sans KR', sans-serif;
+}
+*/
+
+/* 이미지 설명 추가 */
+img + em {
+  display: block;
+  text-align: center;
+}
+
+/* 본문 이미지 가운데 정렬 */
+img:not(.logo):not(.leading) {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home .hero img {
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+}
+
+/* footer 표시 방식 변경 */
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* 화면이 작아지면 footer column으로 변경 */
+@media screen and (max-width: 795px) {
+  .footer{
+    flex-direction: column;
+  }
+}
+
+/* 화면이 작아지면 링크 이름 숨기기 */
+@media screen and (max-width: 385px) {
+  .contact{
+    display: none;
+  }
+}
