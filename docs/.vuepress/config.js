@@ -11,7 +11,7 @@ export default defineUserConfig({
     lineNumbers: false,
     anchor: false,
   },
-  base: '/Cafe/',
+  base: '/',
   lang: 'ko-KR',
   title: 'emme',
   description: description,
