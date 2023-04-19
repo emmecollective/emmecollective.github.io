@@ -59,7 +59,12 @@ img:not(.logo):not(.leading) {
   }
 }
 
-/* 모바일 사이즈에서도 아이템 margin 유지 */
+/* 모바일 사이즈에서 navbar-item margin 유지 */
 .navbar-items .navbar-item {
   margin-left: 1.5rem;
+}
+
+/* 모바일 사이즈에서 navbar 패딩 유지 */
+.navbar {
+  padding-left: 1.5rem;
 }
