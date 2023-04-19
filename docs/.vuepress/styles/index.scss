@@ -58,3 +58,8 @@ img:not(.logo):not(.leading) {
     display: none;
   }
 }
+
+/* 모바일 사이즈에서도 아이템 margin 유지 */
+.navbar-items .navbar-item {
+  margin-left: 1.5rem;
+}

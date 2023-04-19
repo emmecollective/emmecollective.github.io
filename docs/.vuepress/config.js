@@ -19,8 +19,9 @@ export default defineUserConfig({
     ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "./favicons/apple-touch-icon.png" }],
     ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "./favicons/favicon-32x32.png" }],
     ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "./favicons/favicon-16x16.png" }],
-    ['meta', { name: 'theme-color', media:"(prefers-color-scheme: light)", content: 'white' }],
-    ['meta', { name: 'theme-color', media:"(prefers-color-scheme: dark)", content: '#22272e' }],
+    ['meta', { name: 'theme-color', content: 'white' }],
+    //['meta', { name: 'theme-color', media:"(prefers-color-scheme: light)", content: 'white' }],
+    //['meta', { name: 'theme-color', media:"(prefers-color-scheme: dark)", content: '#22272e' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
@@ -34,9 +35,15 @@ export default defineUserConfig({
     }),
     */
   ],
+  alias: {
+    '@theme/Navbar.vue': path.resolve(__dirname, './components/CustomNavbar.vue'),
+    //'@theme/NavbarItems.vue': path.resolve(__dirname, './components/CustomNavbarBrand.vue'),
+  },
   theme: defaultTheme({
     // set config here
     logo: './logo_original.png',
+    colorMode: 'light',
+    colorModeSwitch: false,
     navbar: [
       {
         text: 'About',
@@ -46,10 +53,6 @@ export default defineUserConfig({
       {
         text: 'Menu1',
         link: '/menu/'
-      },
-      {
-        text: 'Menu2',
-        link: '/menu2/'
       },
       {
         text: 'Location',
