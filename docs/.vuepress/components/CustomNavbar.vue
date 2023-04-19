@@ -6,10 +6,13 @@ import ToggleColorModeButton from '@vuepress/theme-default/lib/client/components
 import ToggleSidebarButton from '@vuepress/theme-default/lib/client/components/ToggleSidebarButton.vue'
 import { computed, onMounted, ref } from 'vue'
 import { useThemeLocaleData } from '@vuepress/theme-default/lib/client/composables/index.js'
+import { usePageData, usePageFrontmatter } from '@vuepress/client'
+import type { DefaultThemePageFrontmatter } from '@vuepress/theme-default/lib/shared/index.js'
 
 defineEmits(['toggle-sidebar'])
 
 const themeLocale = useThemeLocaleData()
+const frontmatter = usePageFrontmatter<DefaultThemePageFrontmatter>()
 
 const navbar = ref<HTMLElement | null>(null)
 const navbarBrand = ref<HTMLElement | null>(null)
@@ -67,7 +70,7 @@ function getCssValue(el: HTMLElement | null, property: string): number {
   <header ref="navbar" class="navbar">
     <ToggleSidebarButton  class="can-hide"  @toggle="$emit('toggle-sidebar')" />
 
-    <span ref="navbarBrand">
+    <span ref="navbarBrand"  v-show="!frontmatter.home">
       <NavbarBrand />
     </span>
 
