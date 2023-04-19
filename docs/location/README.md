@@ -1,4 +1,3 @@
-# Location
 ![locatoin](./location.png)
 
 :world_map: 울산광역시 남구 삼산동 1546-18

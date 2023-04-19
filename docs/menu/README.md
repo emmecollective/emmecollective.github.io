@@ -32,9 +32,6 @@
       /*border-bottom: 1px solid #ccc;*/
   }
 </style>
-
-# Menu
----
 ### *Coffee*
 |Coffee        |   |   |Hot      |Cold     |
 |---           |---|---|---      |---      |

@@ -46,16 +46,16 @@ export default defineUserConfig({
     colorModeSwitch: false,
     navbar: [
       {
-        text: 'About',
+        text: '1',
         link: '/about/'
         //children: ['/intro/README.md', '/intro/contact-us.md']
       },
       {
-        text: 'Menu1',
+        text: '2',
         link: '/menu/'
       },
       {
-        text: 'Location',
+        text: '3',
         link: '/location/'
       },
     ],
