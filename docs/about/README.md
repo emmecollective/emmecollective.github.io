@@ -1,12 +1,5 @@
-<style>
-    p {
-        align: center;
-    }
-</style>
 
 ![image](./image1.jpg)
-
-<center>
 
 <br/>
 
@@ -35,5 +28,3 @@
 이로 인해 아주 짧은 동안이나마 우리가 안온하다면 더할 나위 없겠습니다.
 
 <br/>
-
-</center>
