@@ -8,7 +8,11 @@
 :root {
     scroll-behavior: smooth;
     --font-family: 'Apple SD Gothic Neo';
-  }
+}
+
+body {
+  font-size: 0.9rem;
+}
 
 /*
 a.primary {
