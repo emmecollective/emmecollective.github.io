@@ -46,7 +46,7 @@
 </style>
 <br/>
 
-#### Coffee - 4단계
+#### Coffee
 <br/>
 
 |<h5>Espresso</h5> &nbsp; 에스프레소                              |4.5  |
@@ -78,7 +78,7 @@
 <br/>
 <br/>
 
-## Other beverages
+#### Other beverages
 <br/>
 
 |<h5>Pastrami sandwich</h5> &nbsp; 파스트라미 샌드위치             |4.5  |
@@ -89,7 +89,7 @@
 <br/>
 <br/>
 
-## Dessert
+#### Dessert
 <br/>
 
 |<h5>Pastrami sandwich</h5> &nbsp; 파스트라미 샌드위치             |4.5  |
