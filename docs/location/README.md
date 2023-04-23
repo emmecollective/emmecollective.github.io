@@ -1,10 +1,10 @@
 <style>
     body {
-        font-size: 0.9rem;
+        font-size: 12px;
     }
 </style>
 
-![locatoin](./location.jpg)
+![locatoin](./location.png)
 
 <br/>
 
