@@ -59,32 +59,7 @@ export default defineUserConfig({
         link: '/location/'
       },
     ],
-    sidebar: {
-      '/intro/': [
-        {
-          text: 'Introduction',
-          collapsable: true,
-          children: [
-            '/intro/README.md',
-            '/intro/benefit.md',
-            '/intro/contact-us.md',
-          ]
-        }
-      ],
-      '/guide/': [
-        {
-          text: 'Guild System Guide',
-          collapsable: true,
-          children: [
-            '/guide/README.md',
-            '/guide/guild-window.md',
-            '/guide/guild-member-list.md',
-            '/guide/guild-quest.md',
-            '/guide/guild-boss-raid.md'
-          ]
-        }
-      ],
-    },
+    sidebar: false,
     lastUpdated: false,
     contributors: false
   }),

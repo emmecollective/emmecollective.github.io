@@ -40,6 +40,9 @@
   h1, h2 {
     border-bottom: none;
   }
+  body {
+        font-size: 0.9rem;
+  }
 </style>
 <br/>
 

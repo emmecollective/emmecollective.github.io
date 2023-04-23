@@ -1,3 +1,8 @@
+<style>
+    body {
+        font-size: 0.9rem;
+    }
+</style>
 
 ![image](./image1.jpg)
 
