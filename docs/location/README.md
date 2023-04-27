@@ -14,7 +14,7 @@ Opening hours : 12:00 ~ 22:00<br/>
 Day off : Wendnesday<br/>
 Wi-Fi ID/PW : emme / emme123456<br/>
 
-Instagram : [emme.collecrive](https://www.instagram.com/emme.collective/)<br/>
+Instagram : [emme.collective](https://www.instagram.com/emme.collective/)<br/>
 E-mail address : emmecollective@naver.com<br/>
 Address : 1546-18, Samsan-dong, Nam-gu, Ulsan, Republic of Korea<br/>
 
