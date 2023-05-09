@@ -11,7 +11,7 @@
 <center>
 
 Opening hours : 12:00 ~ 22:00<br/>
-Day off : Wendnesday<br/>
+Day off : Wednesday<br/>
 Wi-Fi ID/PW : emme / emme123456<br/>
 
 Instagram : [emme.collective](https://www.instagram.com/emme.collective/)<br/>
