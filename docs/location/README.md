@@ -16,7 +16,8 @@ Wi-Fi ID/PW : emme / emme123456<br/>
 
 Instagram : [emme.collective](https://www.instagram.com/emme.collective/)<br/>
 E-mail address : emmecollective@naver.com<br/>
-Address : 1546-18, Samsan-dong, Nam-gu, Ulsan, Republic of Korea<br/>
+Address : 7 Samsanjung-ro 114beon-gil, Nam-gu, Ulsan, Republic of Korea<br/>
+<!--Address : 1546-18, Samsan-dong, Nam-gu, Ulsan, Republic of Korea<br/> -->
 
 </center>
 
