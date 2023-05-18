@@ -33,6 +33,21 @@ img:not(.logo):not(.leading) {
   margin-right: auto;
 }
 
+html, body {
+  height: 100%;
+}
+
+#app, .theme-container{
+  height: 100%;
+}
+
+.home {
+  height: 90%;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+
 .home .hero img {
     max-width: 100%;
     height: auto;
