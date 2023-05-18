@@ -75,8 +75,10 @@ html, body {
 }
 
 /* 모바일 사이즈에서 navbar-item margin 유지 */
-.navbar-items .navbar-item {
-  margin-left: 1.5rem;
+.navbar {
+  .navbar-items .navbar-item {
+    margin-left: 1.5rem;
+  }
 }
 
 /* 모바일 사이즈에서 navbar 패딩 유지 */
