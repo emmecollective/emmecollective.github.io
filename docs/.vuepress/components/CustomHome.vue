@@ -6,10 +6,11 @@ import HomeHero from '@vuepress/theme-default/lib/client/components/HomeHero.vue
 </script>
 
 <template>
-  <main class="home">
+  <main class="home fill-height">
+    
     <HomeHero />
-    <HomeFeatures />
+    <!-- <HomeFeatures />
     <HomeContent />
-    <HomeFooter />
+    <HomeFooter /> -->
   </main>
 </template>
