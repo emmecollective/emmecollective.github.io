@@ -69,12 +69,12 @@
 |차가운 물 또는 상온의 물을 이용하여 장시간에 걸쳐 추출한 커피        |     |
 <br/>
 
-|<h5>Cold brew latte</h5> &nbsp; 콜드 브루 라떼 &nbsp;✓ Only ice  |5.5  |
+|<h5>Cold brew latte</h5> &nbsp; 콜드 브루 라떼<br/>✓ Only ice  |5.5  |
 |:---------------------------------------------------------------|----:|
 |콜드 브루에 우유를 섞은 커피                                       |     |
 <br/>
 
-|<h5>Toffeenut cream latte</h5> &nbsp; 토피넛 크림 라떼 &nbsp;✓ Only ice |6.0  |
+|<h5>Toffeenut cream latte</h5> &nbsp; 토피넛 크림 라떼<br/>✓ Only ice |6.0  |
 |:---------------------------------------------------------------|----:|
 |에스프레소와 달콤한 우유를 섞어 그 위에 토피, 견과류를 곁들인 크림을 올린 커피 |     |
 <br/>
@@ -82,13 +82,13 @@
 |<h5>Bittersweet blend</h5> &nbsp; 비터스윗 블렌드                 |6.0  |
 |:---------------------------------------------------------------|----:|
 |드리퍼(Dripper)와 종이필터를 이용하여 추출한 커피                   |     |
-|<br/>Bunker company Blend No #8<br/>Blending Info : Colombia 60%, Ethiopia 40%<br/>Tasting Notes : grapefruit, peach, cacao nibs|     |
+|<br/>Bunker company Blend No #8<br/>Blending Info : Colombia 60%, Ethiopia 40%<br/>Tasting Notes : grapefruit, peach, cacao nibs |     |
 <br/>
 
 |<h5>Buttery blend</h5> &nbsp; 버터리 블렌드                      |6.0  |
 |:---------------------------------------------------------------|----:|
 |드리퍼(Dripper)와 종이필터를 이용하여 추출한 커피                   |     |
-|<br/>Bunker company Blend No #8.5<br/>Blending Info : Colombia 62%, india 25%, Ethiopia 13%<br/>Tasting Notes : cacao, walnut, barley|     |
+|<br/>Bunker company Blend No #8.5<br/>Blending Info : Colombia 62%, india 25%, Ethiopia 13%<br/>Tasting Notes : cacao, walnut, barley |     |
 <br/>
 
 <br/>
@@ -97,27 +97,27 @@
 #### Other beverages
 <br/>
 
-|<h5>Cherry lemon ade</h5> &nbsp; 체리 레몬 에이드 &nbsp;✓ Only ice |6.0  |
+|<h5>Cherry lemon ade</h5> &nbsp; 체리 레몬 에이드 <br/>✓ Only ice |6.0  |
 |:---------------------------------------------------------------|----:|
 |체리와 레몬의 과즙, 과실에 탄산수를 섞은 음료                       |     |
 <br/>
 
-|<h5>Orange ade</h5> &nbsp; 오렌지 에이드 &nbsp;✓ Only ice        |6.0  |
+|<h5>Orange ade</h5> &nbsp; 오렌지 에이드 <br/>✓ Only ice        |6.0  |
 |:---------------------------------------------------------------|----:|
 |오렌지의 과즙, 과실에 탄산수를 섞은 음료                           |     |
 <br/>
 
-|<h5>Pomegrante apple juice</h5> &nbsp; 석류 사과 주스 &nbsp;✓ Only ice |6.0  |
+|<h5>Pomegrante apple juice</h5> &nbsp; 석류 사과 주스 <br/>✓ Only ice |6.0  |
 |:---------------------------------------------------------------|----:|
 |사과, 시나몬청에 상큼한 석류주스를 섞은 음료                        |     |
 <br/>
 
-|<h5>Darjeeling</h5> &nbsp; 다르질링 &nbsp;✓ Only hot            |4.5  |
+|<h5>Darjeeling</h5> &nbsp; 다르질링 <br/>✓ Only hot            |4.5  |
 |:---------------------------------------------------------------|----:|
 |인도의 다르질링 마을 일대에서 생산되는 홍차                        |     |
 <br/>
 
-|<h5>Chamomile tea</h5> &nbsp; 캐모마일 티 &nbsp;✓ Only hot       |4.5  |
+|<h5>Chamomile tea</h5> &nbsp; 캐모마일 티 <br/>✓ Only hot       |4.5  |
 |:---------------------------------------------------------------|----:|
 |정신을 안정시키는 것에 도움을 주는 유럽의 대표적인 허브차            |     |
 <br/>
@@ -140,7 +140,7 @@
 
 |<h5>Grilled sandwich</h5> &nbsp; 그릴드 샌드위치                 |9.5  |
 |:---------------------------------------------------------------|----:|
-|그릴에 구워 따뜻한 사워도우에 소스와 바질 페스토를 바른 뒤 치즈, 구운 베이컨<br/>로메인, 선드라이 토마토를 채워 넣은 샌드위치 |     |
+|그릴에 구워 따뜻한 사워도우에 소스와 바질 페스토를 바른 뒤 치즈, 구운 베이컨, 로메인, 선드라이 토마토를 채워 넣은 샌드위치 |     |
 <br/>
 
 |<h5>Tree cream cheese cake</h5> &nbsp; 트리 크림치즈 케이크       |6.0  |
